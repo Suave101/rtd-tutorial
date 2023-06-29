@@ -1,13 +1,7 @@
-Welcome to <E9> documentation!
+Welcome to Evium-99's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Evium-99 is a FTC team that was founded in 2023. This is a FTC documentation for our team and other teams to reference for good code and engineering practices!
 
 .. note::
 
@@ -19,4 +13,3 @@ Contents
 .. toctree::
 
    usage
-   api
