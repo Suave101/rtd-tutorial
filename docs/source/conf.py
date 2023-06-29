@@ -2,11 +2,11 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Evium99'
+copyright = '2023, Evium99'
+author = 'Evium99'
 
-release = '0.1'
+release = '0.0'
 version = '0.1.0'
 
 # -- General configuration
